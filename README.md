@@ -6,6 +6,6 @@
  adicionando uma linha direto pelo site
 
  Lista de tarefas:
-- [ ] objetivo 1
+- [x] objetivo 1
 - [ ] objetivo 2
 - [ ] objetivo 3
